@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @garryevansAi
+- 👋 Hi, I’m @ Garry Evans 
 - 👀 I’m interested in data jobs
-- 🌱 I’m currently learning google courses 
+- 🌱 google data courses in data clean complete 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...954-716-0189
 - 😄 Pronouns: ...
