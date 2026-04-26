@@ -36,5 +36,6 @@ Python · FastAPI · Pandas · NumPy · SQL · PostgreSQL · TradingView · Tele
 I am expanding Legacy Edge with machine learning models to evaluate signal quality and improve trade selection using historical trade data.
 
 ## Contact
+phone : (954)-716-0189
 Email: garryevans954305@gmail.com
 https://www.linkedin.com/in/garry-evans-1251716b?
